@@ -6,6 +6,7 @@ function App() {
     <div className="App">
      <h3>React Data JS</h3>
      <input type="search" placeholder='Search the data' />
+     <button>CLick</button>
     </div>
   );
 }
