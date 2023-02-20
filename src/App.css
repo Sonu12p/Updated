@@ -13,6 +13,52 @@
   }
 }
 
+.Banner {
+width: 100%;
+height: 100vh;
+/* background-image: url("/public/Img/pizza.jpg"); */
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.Banner_content{
+display: flex;
+align-items: center;
+height: 100vh;
+color: aliceblue;
+}
+
+.container{
+width: 1000 px; 
+max-width: 1000 px;
+margin: 10  ;
+
+}
+.Banner_text{
+width: 500px;
+
+}
+.Banner_text h3 {
+font-size: 40px;
+}
+.Banner_text h1 {
+  font-size: 80px;
+  line-height: 80px;
+  font-weight: 900px;
+  }
+  .navbar{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+.navbar_text{
+  display: flex;
+  height: 60px;
+  align-items: center;
+}
+
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
