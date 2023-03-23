@@ -10,6 +10,8 @@ function App() {
   return (
     <div className="App">
      <h3>Lazzzy Loading ....</h3>
+     <h3>Lazzzy Loading ....</h3>
+     <h3>Lazzzy Loading ....</h3>
      {/* <Header /> */}
     {/* <NavBar /> */}
 
